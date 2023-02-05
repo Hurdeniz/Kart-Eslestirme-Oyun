@@ -1,0 +1,9 @@
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\bin\Debug\HuR-Kart v1.0.exe
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\bin\Debug\HuR-Kart v1.0.pdb
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\obj\x86\Debug\HuR_Kart_v1._0.Form1.resources
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\obj\x86\Debug\HuR_Kart_v1._0.Properties.Resources.resources
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\obj\x86\Debug\HuR-Kart v1.0.exe
+c:\users\hürdeniz\documents\visual studio 2010\Projects\HuR-Kart v1.0\HuR-Kart v1.0\obj\x86\Debug\HuR-Kart v1.0.pdb
